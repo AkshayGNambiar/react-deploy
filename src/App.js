@@ -17,12 +17,12 @@ function App() {
       <Skills />
       <Projects />
       
-       <Col size={10} sm={8} className="text-center text-sm-end">
+       <Col size={5} sm={8} className="text-center text-sm-end">
        <p>Contact me@91-8304952375   Email : nambiarakshayg@gmail.com </p>
       
           </Col>
-          <Col size={10} sm={7} className="text-center text-sm-end">
-            <p>Adress : Calicut ,Kerala ,India Pin : 673307</p>
+          <Col size={5} sm={7} className="text-center text-sm-end">
+            <p>Address : Calicut ,Kerala ,India Pin : 673307</p>
           </Col>
 
     </div>
